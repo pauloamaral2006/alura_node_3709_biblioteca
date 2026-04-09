@@ -1,0 +1,21 @@
+{
+  "name": "alura",
+  "version": "1.0.0",
+  "description": "<p>Projeto utilizado no curso para aprendizado das técnicas e melhores práticas.</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloamaral2006/alura_node_3709_biblioteca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/pauloamaral2006/alura_node_3709_biblioteca/issues"
+  },
+  "homepage": "https://github.com/pauloamaral2006/alura_node_3709_biblioteca#readme"
+}
