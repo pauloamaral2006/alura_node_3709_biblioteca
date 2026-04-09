@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/pauloamaral2006/alura_node_3709_biblioteca/issues"
   },
-  "homepage": "https://github.com/pauloamaral2006/alura_node_3709_biblioteca#readme"
+  "homepage": "https://github.com/pauloamaral2006/alura_node_3709_biblioteca#readme",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.3"
+  }
 }
